@@ -9,7 +9,7 @@ redirect_from:
 
 # Junteng Liu
 
-I am a first-year Ph.D. candidate in Computer Science at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by Professor Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
+I am a first-year Ph.D. candidate in Computer Science at the HKUST NLP Group, advised by Professor Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability.
 
 ## Contact
 * Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
