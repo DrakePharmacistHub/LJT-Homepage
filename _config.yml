@@ -46,6 +46,7 @@ author:
   scopus           : # URL
   zotero           : # URL
 
+
   # Repositories and software development
   bitbucket        : # Username - No Bitbucket username was provided in memory.
   codepen          : # Username
@@ -220,17 +221,19 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  posts:
+    output: false
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
